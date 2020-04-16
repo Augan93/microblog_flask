@@ -1,0 +1,14 @@
+venv/*
+.idea/
+.vscode/
+__pycache__
+*.pyc
+local_settings.py
+media/*
+
+rest_framework_swagger/
+admin/
+.pytest_cache/*
+node_modules/*
+package.json
+package-lock.json
